@@ -1,2 +1,4 @@
 git init: intialise the git
 git status:list all untracked file
+git add -A:adding changes
+git commit -m
